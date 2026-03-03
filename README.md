@@ -42,7 +42,7 @@ Para executar este projeto, você precisará do Visual Studio e do .NET Framewor
 
 1.  Clone este repositório:
     ```sh
-    git clone https://github.com/seu-usuario/projetomatematics.git
+    git clone https://github.com/Luckasdz7/projetomatematics.git
     ```
 2.  Abra o arquivo da solução `projetomatematics.sln` no Visual Studio.
 3.  Pressione `F5` ou clique no botão "Iniciar" para compilar e executar o projeto.
